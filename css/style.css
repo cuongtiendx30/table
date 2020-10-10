@@ -1,0 +1,31 @@
+/* CSS Document */
+body{
+	background: url(../img/543667.jpg);
+}
+.table-custom, .table-custom td, .table-custom th{
+	border-collapse: collapse;
+		border:1px solid white;
+}
+.table-custom th{
+	font-size: 50px;
+	
+}
+.table-custom{
+	margin: 0 auto;
+	width: 800px;
+	color: aliceblue;
+	
+}
+.table-custom td, .table-custom th{
+/*	width: 200px;*/
+	height: 30px;
+	text-align: center;
+
+}
+.t-left{
+/*	text-align: left !important;*/
+}
+.custom-head{
+	background: red;
+	color: white;
+}
